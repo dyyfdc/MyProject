@@ -4,7 +4,8 @@ import android.app.Application;
 import android.content.Context;
 
 /**
- * author:chenjunzhu
+ * author:duyuyang
+ * date:2024.03.19
  */
 public class MyApplication extends Application {
 
