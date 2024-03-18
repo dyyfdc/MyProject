@@ -1,0 +1,29 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\DJI\Mobile-SDK-Android-V5-dev-sdk-main\SampleCode-V5\android-sdk-v5-uxsdk\src\main\AndroidManifest.xml:2:1-6:12
+INJECTED from E:\DJI\Mobile-SDK-Android-V5-dev-sdk-main\SampleCode-V5\android-sdk-v5-uxsdk\src\main\AndroidManifest.xml:2:1-6:12
+INJECTED from E:\DJI\Mobile-SDK-Android-V5-dev-sdk-main\SampleCode-V5\android-sdk-v5-uxsdk\src\main\AndroidManifest.xml:2:1-6:12
+	package
+		ADDED from E:\DJI\Mobile-SDK-Android-V5-dev-sdk-main\SampleCode-V5\android-sdk-v5-uxsdk\src\main\AndroidManifest.xml:3:5-24
+		INJECTED from E:\DJI\Mobile-SDK-Android-V5-dev-sdk-main\SampleCode-V5\android-sdk-v5-uxsdk\src\main\AndroidManifest.xml
+		INJECTED from E:\DJI\Mobile-SDK-Android-V5-dev-sdk-main\SampleCode-V5\android-sdk-v5-uxsdk\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\DJI\Mobile-SDK-Android-V5-dev-sdk-main\SampleCode-V5\android-sdk-v5-uxsdk\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.VIBRATE
+ADDED from E:\DJI\Mobile-SDK-Android-V5-dev-sdk-main\SampleCode-V5\android-sdk-v5-uxsdk\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from E:\DJI\Mobile-SDK-Android-V5-dev-sdk-main\SampleCode-V5\android-sdk-v5-uxsdk\src\main\AndroidManifest.xml:5:22-63
+uses-sdk
+INJECTED from E:\DJI\Mobile-SDK-Android-V5-dev-sdk-main\SampleCode-V5\android-sdk-v5-uxsdk\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\DJI\Mobile-SDK-Android-V5-dev-sdk-main\SampleCode-V5\android-sdk-v5-uxsdk\src\main\AndroidManifest.xml
+INJECTED from E:\DJI\Mobile-SDK-Android-V5-dev-sdk-main\SampleCode-V5\android-sdk-v5-uxsdk\src\main\AndroidManifest.xml
+INJECTED from E:\DJI\Mobile-SDK-Android-V5-dev-sdk-main\SampleCode-V5\android-sdk-v5-uxsdk\src\main\AndroidManifest.xml
+INJECTED from E:\DJI\Mobile-SDK-Android-V5-dev-sdk-main\SampleCode-V5\android-sdk-v5-uxsdk\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\DJI\Mobile-SDK-Android-V5-dev-sdk-main\SampleCode-V5\android-sdk-v5-uxsdk\src\main\AndroidManifest.xml
+		ADDED from E:\DJI\Mobile-SDK-Android-V5-dev-sdk-main\SampleCode-V5\android-sdk-v5-uxsdk\src\main\AndroidManifest.xml
+		INJECTED from E:\DJI\Mobile-SDK-Android-V5-dev-sdk-main\SampleCode-V5\android-sdk-v5-uxsdk\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\DJI\Mobile-SDK-Android-V5-dev-sdk-main\SampleCode-V5\android-sdk-v5-uxsdk\src\main\AndroidManifest.xml
+		ADDED from E:\DJI\Mobile-SDK-Android-V5-dev-sdk-main\SampleCode-V5\android-sdk-v5-uxsdk\src\main\AndroidManifest.xml
+		INJECTED from E:\DJI\Mobile-SDK-Android-V5-dev-sdk-main\SampleCode-V5\android-sdk-v5-uxsdk\src\main\AndroidManifest.xml
